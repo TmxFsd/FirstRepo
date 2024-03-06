@@ -5,4 +5,6 @@ int main()
 {
         out<<"Hello worid";
 }
+//comment
+//comment2
 
