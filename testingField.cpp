@@ -3,6 +3,6 @@ using namespace std;
 
 int main()
 {
-        out<<"Hello worid";
+	cout<<"Hello worid\n";
 }
 
